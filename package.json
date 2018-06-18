@@ -1,0 +1,47 @@
+{
+  "name": "younglinks",
+  "version": "1.0.0",
+  "description": "Simple <a> links with underline effects",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashiyer4292/Younglinks.git"
+  },
+  "keywords": [
+    "a",
+    "href",
+    "underline",
+    "hover",
+    "transition",
+    "animation",
+    "react",
+    "reactjs",
+    "npm",
+    "node"
+  ],
+  "author": "Avinash Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashiyer4292/Younglinks/issues"
+  },
+  "homepage": "https://github.com/avinashiyer4292/Younglinks#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0"
+  }
+}
