@@ -30,8 +30,16 @@ Create component.
 ```
 <Younglinks />
 ```
-## Options
 
+## Options
+1. href
+2. text
+
+example
+
+```
+<Younglinks href='https://www.google.com' text='Check out Google' />
+```
 
 
 ## License
